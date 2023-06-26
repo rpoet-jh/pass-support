@@ -48,7 +48,6 @@
     <module>pass-journal-loader</module>
     <module>pass-grant-loader</module>
     <module>pass-deposit-services</module>
-    <module>pass-messaging-support</module>
   </modules>
 
   <scm>
